@@ -1,18 +1,9 @@
 {
-  "name": "telegram-bot-example",
+  "name": "yudamods",
   "version": "1.0.0",
-  "description": "Bot Telegram dengan Node.js",
-  "main": "index.js",
   "scripts": {
-    "start": "node index.js"
+    "start": "bash main.sh"
   },
-  "keywords": [
-    "telegram",
-    "bot",
-    "nodejs"
-  ],
-  "author": "YUDAMODS",
-  "license": "MIT",
   "dependencies": {
     "axios": "^0.24.0",
     "lolcatjs": "^1.1.0",
